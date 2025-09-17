@@ -2,7 +2,7 @@
 
 ![python](assets/test.png)
 
-Hello this is [Mr.Rezoo](https://www.linkedin.com/in/reza-mobaraki/)
+Hello this is [Reza Mobaraki](https://www.linkedin.com/in/reza-mobaraki/)
 
 ## Table of contents
 
@@ -120,7 +120,7 @@ pytest -v test_file.py
 
 ## Contributors
 
-* [MrRezoo](https://github.com/MrRezoo)
+* [rezamobaraki](https://github.com/rezamobaraki)
 
 ## License
 
